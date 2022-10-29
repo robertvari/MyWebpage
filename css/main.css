@@ -52,3 +52,14 @@ nav a{
 nav a:hover{
     color:rgb(255, 230, 0)
 }
+
+footer{
+    display: flex;
+    margin-top: 50px;
+    color: rgba(255, 255, 255, 0.479);
+}
+
+footer section{
+    margin: 20px;
+    text-align: center;
+}
